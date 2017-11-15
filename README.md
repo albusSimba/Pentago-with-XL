@@ -44,7 +44,7 @@ The instructions to play the game is as follow:
 
 ## Deployment
 
-Alternatively, the program can be deployed using [`PENTAGO_DEMO.exe`](https://github.com/albusSimba/Pentago-with-XL/tree/master/PENTAGO_DEMO/for_testing).
+Alternatively, the program can be deployed using [`PENTAGO_DEMO.exe`](https://github.com/albusSimba/Pentago-with-XL/tree/master/PENTAGO_DEMO/for_testing) with [MATLAB Runtime](https://www.mathworks.com/products/compiler/matlab-runtime.html).
 
 ## Built With
 
