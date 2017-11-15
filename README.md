@@ -45,8 +45,8 @@ The instructions to play the game is as follow:
 Alternatively, the program can be deployed by installing:
 1) MATLAB Runtime R2016a(9.01)  
   * [Windows](http://ssd.mathworks.com/supportfiles/downloads/R2016a/deployment_files/R2016a/installers/win64/MCR_R2016a_win64_installer.exe)
-  * [Linux](http://ssd.mathworks.com/supportfiles/downloads/R2016a/deployment_files/R2016a/installers/glnxa64/MCR_R2016a_glnxa64_installer.zip)
-  * [Mac](http://ssd.mathworks.com/supportfiles/downloads/R2016a/deployment_files/R2016a/installers/maci64/MCR_R2016a_maci64_installer.zip)
+    * [Linux](http://ssd.mathworks.com/supportfiles/downloads/R2016a/deployment_files/R2016a/installers/glnxa64/MCR_R2016a_glnxa64_installer.zip)
+      * [Mac](http://ssd.mathworks.com/supportfiles/downloads/R2016a/deployment_files/R2016a/installers/maci64/MCR_R2016a_maci64_installer.zip)
 2) [`PENTAGO_DEMO.exe`](https://github.com/albusSimba/Pentago-with-XL/tree/master/PENTAGO_DEMO/for_testing) 
 
 ## Built With
