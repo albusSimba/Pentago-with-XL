@@ -22,17 +22,21 @@ A step by step series of examples that tell you have to get a development env ru
 
 ## Development of Minimax Algorithm
 
-The development of the minimax algorithm code with alpha-beta punning is written in the file  `make_a_move_computer.m`
+The development of the minimax algorithm code with alpha-beta punning is written in the file  `make_a_move_computer.m`.
 The function call for the minimax algorithm is as follow:
 ```
 [ pos_played,rotation_played ] = make_a_move_computer( board , who_to_play )
 ```
 ## Gameplay
 The instructions to play the game is as follow:
-1)	![Alt text](Instruction1.png?raw=true)
-2)	![Alt text](Instruction2.png?raw=true)
-3)	![Alt text](Instruction3.png?raw=true)
-4)	![Alt text](Instruction4.png?raw=true)
+1)	
+![Alt text](Instruction1.png?raw=true)
+2)	
+![Alt text](Instruction2.png?raw=true)
+3)	
+![Alt text](Instruction3.png?raw=true)
+4)	
+![Alt text](Instruction4.png?raw=true)
 
 ## Deployment
 
