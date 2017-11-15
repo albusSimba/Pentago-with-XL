@@ -44,7 +44,8 @@ The instructions to play the game is as follow:
 
 ## Deployment
 
-Alternatively, the program can be deployed using `MyAppInstaller_web.exe` from the path `Pentago-with-XL/PENTAGO_DEMO/for_redistribution/`.
+Alternatively, the program can be deployed using [`PENTAGO_DEMO.exe`](https://github.com/albusSimba/Pentago-with-XL/tree/master/PENTAGO_DEMO/for_testing).
+
 ## Built With
 
 * [Matlab]( https://www.mathworks.com/?s_tid=gn_logo) – Development IDE 
