@@ -29,21 +29,14 @@ The function call for the minimax algorithm is as follow:
 ```
 ## Gameplay
 The instructions to play the game is as follow:
-1)	
 
-![Alt text](Instuction1.png?raw=true)
+1)![Alt text](Instuction1.png?raw=true)
 
-2)	
+2)![Alt text](Instuction2.png?raw=true)
 
-![Alt text](Instuction2.png?raw=true)
+3)![Alt text](Instuction3.png?raw=true)
 
-3)	
-
-![Alt text](Instuction3.png?raw=true)
-
-4)	
-
-![Alt text](Instuction4.png?raw=true)
+4)![Alt text](Instuction4.png?raw=true)
 
 ## Deployment
 
